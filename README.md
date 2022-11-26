@@ -15,3 +15,5 @@ python main.py
 ```
 To download your dataset use 
 wget https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training_set1.csv  
+
+#This file had been changed with github site
